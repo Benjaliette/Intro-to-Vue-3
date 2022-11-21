@@ -21,6 +21,10 @@ body {
   cursor: pointer;
 }
 
+.button.warning {
+  background-color: rgb(149, 14, 14);
+}
+
 .cart {
   margin: 25px 100px;
   float: right;
